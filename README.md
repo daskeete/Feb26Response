@@ -3,6 +3,7 @@
 ## Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices
 
 Original Matrix 
+<code>
 [[ 0,  0, -1,  0,  0,  2,  1,  0, -1],
        [-1,  0,  0, -2, -1,  0, -1, -1, -1],
        [ 0,  0,  1,  1, -2,  0, -1, -1, -1],
@@ -11,7 +12,7 @@ Original Matrix
        [-1,  0, -1, -1, -2,  1,  1,  1, -1],
        [ 0,  0,  1, -1, -1, -2,  1, -1,  0],
        [ 0, -1, -1,  2,  1, -1, -1,  0, -1],
-       [ 1, -1,  1, -2,  2,  1, -1,  0, -1]]
+       [ 1, -1,  1, -2,  2,  1, -1,  0, -1]] </code>
 
 Kernel1
 ![Kernel1](kernel1.PNG)
