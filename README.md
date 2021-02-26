@@ -2,6 +2,7 @@
 
 ## Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices
 
+
 ![Kernel1](kernel1.png)
 
 ![Kernel1_Output](kernel1output.png)
