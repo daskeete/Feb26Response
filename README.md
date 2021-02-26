@@ -12,9 +12,9 @@ Original Matrix
        [-1,  0, -1, -1, -2,  1,  1,  1, -1],
        [ 0,  0,  1, -1, -1, -2,  1, -1,  0],
        [ 0, -1, -1,  2,  1, -1, -1,  0, -1],
-       [ 1, -1,  1, -2,  2,  1, -1,  0, -1]] 9x9 matrix    </code>
+       [ 1, -1,  1, -2,  2,  1, -1,  0, -1]] 9x9 matrix
 
-Kernel1
+### Kernel1
 <code>
        
        [[0, 0, 0],
@@ -23,7 +23,7 @@ Kernel1
        3x3 matrix
 
 
-Kernel1 convolved over matrix output
+### Kernel1 convolved over matrix output
 <code>
        
        [[ 1, -1, -4,  0, -4, -3, -4],
@@ -35,7 +35,7 @@ Kernel1 convolved over matrix output
        [ 0, -2,  6, -1, -1,  0, -3]]
        7x7 matrix
 
-Kernel2
+### Kernel2
 <code>
        
        [[0, 0, 1],
@@ -44,7 +44,7 @@ Kernel2
        3x3 matrix
 
 
-Kernel2 convolved over matrix output
+### Kernel2 convolved over matrix output
 <code>
        
        [[-2, -2, -2,  0, -3, -2, -5],
