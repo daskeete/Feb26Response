@@ -17,18 +17,45 @@ Original Matrix
        </code>
 
 Kernel1
-![Kernel1](kernel1.PNG)
+<code>
+       
+       [[0, 0, 0],
+       [0, 1, 1],
+       [1, 0, 1]]
+       </code>
 
 Kernel1 convolved over matrix output
-![Kernel1_Output](kernel1output.PNG)
+<code>
+       
+       [[ 1, -1, -4,  0, -4, -3, -4],
+       [ 1,  3,  0, -1,  0,  0, -1],
+       [ 2,  0,  3,  1,  4,  5,  2],
+       [ 0, -2, -3,  4,  1,  3,  2],
+       [ 0, -3, -3, -4,  2, -1,  1],
+       [ 0,  1, -2, -2, -1, -1, -3],
+       [ 0, -2,  6, -1, -1,  0, -3]]
+       </code>
 
 
 Kernel2
-![Kernel2](kernel2.PNG)
+<code>
+       
+       [[0, 0, 1],
+       [1, 1, 1],
+       [1, 0, 0]]
+       </code>
 
 Kernel2 convolved over matrix output
-![Kernel2_Output](kernel2output.PNG)
-
+<code>
+       
+       [[-2, -2, -2,  0, -3, -2, -5],
+       [ 0,  1,  0, -1, -4, -2, -3],
+       [ 1,  4,  0, -1,  3,  4,  1],
+       [ 1,  0,  0,  2,  3,  5,  3],
+       [-1, -4, -1, -1, -1,  2,  3],
+       [ 0, -2, -4, -1,  0, -2, -2],
+       [ 0, -2,  2, -2,  2, -2, -3]]
+       </code>
 
 
 ## What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
