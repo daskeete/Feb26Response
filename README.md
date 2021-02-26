@@ -66,7 +66,7 @@ Using filters on an image helps reduce processing times as well since the comput
 ## Why would we include more than one filter? How many filters did you assign as part of your architecture when training a model to learn images of numbers from the mnist dataset?
 You would include more than one filter to highlight multiple features of an image. 
 Or maybe use one filter in conjunction with another with the idea that the first filter would highlight specific features that would then make it easier to highlight other features in the image.
-If I remember correctly we
+If I remember correctly we did not assign any filters on the mnist dataset.
 
 
 ## MSE: From your 400+ observations of homes for sale, calculate the MSE for the following.
