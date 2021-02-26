@@ -1,6 +1,6 @@
 # Feb26Response
 
-## Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices
+## Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices ssss
 
 Original Matrix 
 <code>
