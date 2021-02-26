@@ -16,6 +16,8 @@ Original Matrix
        [ 1, -1,  1, -2,  2,  1, -1,  0, -1]]
        9x9 matrix
 
+</code>
+
 Kernel1
 <code>
        
@@ -23,6 +25,7 @@ Kernel1
        [0, 1, 1],
        [1, 0, 1]]
        3x3 matrix
+</code>
 
 Kernel1 convolved over matrix output
 <code>
@@ -35,7 +38,7 @@ Kernel1 convolved over matrix output
        [ 0,  1, -2, -2, -1, -1, -3],
        [ 0, -2,  6, -1, -1,  0, -3]]
        7x7 matrix
-
+</code>
 
 Kernel2
 <code>
@@ -44,6 +47,7 @@ Kernel2
        [1, 1, 1],
        [1, 0, 0]]
        3x3 matrix
+</code>
 
 Kernel2 convolved over matrix output
 <code>
@@ -57,6 +61,7 @@ Kernel2 convolved over matrix output
        [ 0, -2,  2, -2,  2, -2, -3]]
        7x7 matrix
 
+</code>
 
 ## What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
 
