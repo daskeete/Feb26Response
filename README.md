@@ -2,18 +2,18 @@
 
 ## Convolve the two 3x3 matrices that were assigned to you with your 9x9 matrix and calculate the resulting two matrices
 
-![OriginalMatrix](originalmatrix.png)
+![OriginalMatrix](originalmatrix.PNG)
 
 
-![Kernel1](kernel1.png)
+![Kernel1](kernel1.PNG)
 
-![Kernel1_Output](kernel1output.png)
+![Kernel1_Output](kernel1output.PNG)
 
 
 
-![Kernel2](kernel2.png)
+![Kernel2](kernel2.PNG)
 
-![Kernel2_Output](kernel2output.png)
+![Kernel2_Output](kernel2output.PNG)
 
 
 
