@@ -59,9 +59,14 @@
 
 
 ## What is the purpose of using a 3x3 filter to convolve across a 2D image matrix?
+We use filters so that we can extract/preserve/highlight the features of the image that we deem important.
+Using filters on an image helps reduce processing times as well since the computer is only processing the features that are important.
+
 
 ## Why would we include more than one filter? How many filters did you assign as part of your architecture when training a model to learn images of numbers from the mnist dataset?
-
+You would include more than one filter to highlight multiple features of an image. 
+Or maybe use one filter in conjunction with another with the idea that the first filter would highlight specific features that would then make it easier to highlight other features in the image.
+If I remember correctly we
 
 
 ## MSE: From your 400+ observations of homes for sale, calculate the MSE for the following.
