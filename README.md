@@ -14,9 +14,7 @@ Original Matrix
        [ 0,  0,  1, -1, -1, -2,  1, -1,  0],
        [ 0, -1, -1,  2,  1, -1, -1,  0, -1],
        [ 1, -1,  1, -2,  2,  1, -1,  0, -1]]
-       9x9 matrix
-
-              </code>
+       9x9 matrix           </code>
 
 Kernel1
 <code>
