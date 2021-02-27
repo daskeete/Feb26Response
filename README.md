@@ -71,6 +71,7 @@ If I remember correctly we did not assign any filters on the mnist dataset.
 
 ## MSE: From your 400+ observations of homes for sale, calculate the MSE for the following.
 The 10 biggest over-predictions
+
 The 10 biggest under-predictions
 The 10 most accurate results (use absolute value)
 
