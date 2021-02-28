@@ -71,11 +71,22 @@ If I remember correctly we did not assign any filters on the mnist dataset.
 
 ## MSE: From your 400+ observations of homes for sale, calculate the MSE for the following.
 The 10 biggest over-predictions
+The MSE for the 10 biggest overpredictions is 1,745,893,765,552.1667.
 
 The 10 biggest under-predictions
-The 10 most accurate results (use absolute value)
+The MSE for the 10 biggest underpredictions is 18,096,547,609,609.445.
 
+The 10 most accurate results (use absolute value)
+The MSE for the 10 most accurate results is 46,568,555.92.
 
 ## In which percentile do the 10 most accurate predictions reside? Did your model trend towards over or under predicting home values?
+They resided between the 13th and 70th percentiles.
+My model predicted underpriced values for 187 homes and the rest out of the 400 were overpriced so my model slightly trends toward overpricing home values
+
 ## Which feature appears to be the most significant predictor in the above cases?
+Price and sqft seems to be the most significant predictors. After looking at histograms for the price and sqft data it's clear that the data is right-skewed. This is causing the model to overestimate predictions. There isn't much variation between the number of beds and baths so i wouldn't say that these are significant predictors. 
+
+
 ## Stretch goal: calculate the MAE and compare with your MSE results
+The MAE is 48264.75 and the MSE is 744,677,302,266.07 for all observations.
+
