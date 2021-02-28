@@ -88,5 +88,4 @@ Price and sqft seems to be the most significant predictors. After looking at his
 
 
 ## Stretch goal: calculate the MAE and compare with your MSE results
-The MAE is 48264.75 and the MSE is 744,677,302,266.07 for all observations.
-
+The MAE is 479052 and the MSE is 744,677,302,266.07 for all observations. 
