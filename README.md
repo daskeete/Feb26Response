@@ -85,7 +85,7 @@ My model predicted underpriced values for 187 homes and the rest out of the 400 
 
 ## Which feature appears to be the most significant predictor in the above cases?
 Sqft seems to be the most significant predictor. After looking at a correlation matrix to see the correlation between price and the other variables it was revealed that price and sqft had the highest correlation of 0.52. Table below.
-![Housing Data Correlation Matrix](housingheatmap.PNG)
+![Housing Data Correlation Matrix](heatmaphouses.PNG)
 
 
 
