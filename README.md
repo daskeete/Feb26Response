@@ -84,7 +84,9 @@ They resided between the 13th and 70th percentiles.
 My model predicted underpriced values for 187 homes and the rest out of the 400 were overpriced so my model slightly trends toward overpricing home values
 
 ## Which feature appears to be the most significant predictor in the above cases?
-Price and sqft seems to be the most significant predictors. After looking at histograms for the price and sqft data it's clear that the data is right-skewed. This is causing the model to overestimate predictions. There isn't much variation between the number of beds and baths so i wouldn't say that these are significant predictors. 
+Sqft seems to be the most significant predictor. After looking at a correlation matrix to see the correlation between price and the other variables it was revealed that price and sqft had the highest correlation of 0.52. Table below.
+![Housing Data Correlation Matrix](housingheatmap.PNG)
+
 
 
 ## Stretch goal: calculate the MAE and compare with your MSE results
